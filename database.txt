@@ -1,0 +1,602 @@
+Clubs
+
+FC Barcelona
+15
+500000000
+400000000
+3
+5000000000
+
+
+Real Madrid
+12
+400000000
+350000000
+2
+3500000000
+
+Manchester United
+20
+600000000
+450000000
+5
+6200000000
+
+Bayern Munich
+14
+450000000
+380000000
+4
+4800000000
+
+Juventus
+17
+480000000
+410000000
+2
+4200000000
+
+Liverpool
+16
+550000000
+400000000
+6
+5500000000
+
+Paris Saint-Germain
+18
+400000000
+350000000
+10
+5700000000
+
+AC Milan
+13
+350000000
+300000000
+7
+3800000000
+
+Chelsea
+19
+580000000
+450000000
+5
+6000000000
+
+Manchester City
+15
+520000000
+420000000
+6
+5600000000
+
+Agents
+
+53764
+Julian Thompson
+55000
+
+21678
+Sophia Hernandez
+75000
+
+98345
+Nathan Clark
+60000
+
+57823
+Alyssa Martinez
+70000
+
+75429
+Christopher Walker
+65000
+
+28546
+Ella Johnson
+55000
+
+63948
+Jonathan Reed
+75000
+
+45219
+Samantha Mitchell
+60000
+
+10953
+Alexander Rodriguez
+70000
+
+83721
+Emma Wilson
+65000
+
+67295
+Joseph Lewis
+55000
+
+31968
+Madison Scott
+75000
+
+16479
+Benjamin Turner
+60000
+
+89032
+Ava Adams
+70000
+
+27614
+William Morris
+65000
+
+51423
+Grace Turner
+55000
+
+98045
+Samuel Carter
+75000
+
+29751
+Brooklyn Hall
+60000
+
+45689
+Logan Murphy
+70000
+
+21476
+Chloe Parker
+65000
+
+74589
+David Cook
+55000
+
+37894
+Mia Roberts
+75000
+
+93247
+Andrew Baker
+60000
+
+57291
+Natalie Richardson
+70000
+
+18563
+Henry Phillips
+65000
+
+81247
+Evelyn Nelson
+55000
+
+52897
+Isaac Foster
+75000
+
+38572
+Harper Hayes
+60000
+
+67985
+Samuel Wood
+70000
+
+75218
+Lillian Morgan
+65000
+
+41985
+Henry Reed
+55000
+
+19653
+Stella Cox
+75000
+
+89743
+Sebastian Mitchell
+60000
+
+36129
+Scarlett Price
+70000
+
+54216
+Wyatt Butler
+65000
+
+28741
+Liam Bell
+55000
+
+94015
+Audrey Gray
+75000
+
+62389
+Lucas Turner
+60000
+
+78592
+Violet Brooks
+70000
+
+21984
+Aiden Kelly
+65000
+
+53718
+Zoe Simmons
+55000
+
+97352
+Leo Parker
+75000
+
+45273
+Eleanor Adams
+60000
+
+68923
+Christopher Reed
+70000
+
+37459
+Luna Martinez
+65000
+
+52147
+Michael Hill
+55000
+
+81492
+Penelope Garcia
+75000
+
+93642
+Carter Davis
+60000
+
+28974
+Elena Turner
+70000
+
+61297
+Owen Morris
+65000
+
+47283
+Hazel Thompson
+55000
+
+Players
+
+275893
+Lionel Messi
+2000000
+Real Madrid
+81492
+25000000
+
+537645
+Cristiano Ronaldo
+2500000
+Manchester United
+53718
+10000000
+
+216786
+Neymar Jr.
+1800000
+Paris Saint-Germain
+97352
+15000000
+
+983457
+Robert Lewandowski
+1800000
+Bayern Munich
+45273
+20000000
+
+578239
+Kevin De Bruyne
+1700000
+Manchester City
+68923
+12000000
+
+754297
+Mohamed Salah
+1700000
+Chelsea
+37459
+14000000
+
+285465
+Kylian Mbappe
+1900000
+Liverpool
+52147
+18000000
+
+639488
+Harry Kane
+1600000
+AC Milan
+93642
+11000000
+
+452190
+Sergio Ramos
+1600000
+FC Barcelona
+28974
+9000000
+
+109535
+Manuel Neuer
+1500000
+Bayern Munich
+61297
+8000000
+
+837210
+Kevin Mbappe
+1400000
+Manchester United
+47283
+7000000
+
+672959
+Eden Hazard
+1400000
+Real Madrid
+53764
+6000000
+
+319688
+Virgil van Dijk
+1400000
+Liverpool
+21678
+13000000
+
+164797
+Romelu Lukaku
+1600000
+Paris Saint-Germain
+75429
+15000000
+
+890326
+Antoine Griezmann
+1600000
+Bayern Munich
+28546
+10000000
+
+276145
+Joshua Kimmich
+1500000
+Manchester United
+74589
+11000000
+
+514234
+Bruno Fernandes
+1500000
+Manchester City
+37894
+13000000
+
+980453
+Erling Haaland
+1800000
+Juventus
+93247
+20000000
+
+297512
+Toni Kroos
+1400000
+Real Madrid
+57291
+9000000
+
+456891
+Luka Modric
+1200000
+Real Madrid
+18563
+5000000
+
+214762
+Alisson Becker
+1300000
+Liverpool
+81247
+7000000
+
+745893
+Thomas Muller
+1400000
+Bayern Munich
+52897
+8000000
+
+378944
+Paul Pogba
+1500000
+Manchester United
+38572
+10000000
+
+932475
+Jadon Sancho
+1600000
+Manchester United
+67985
+12000000
+
+572916
+Gareth Bale
+1500000
+Real Madrid
+75218
+10000000
+
+185637
+Karim Benzema
+1400000
+Real Madrid
+41985
+9000000
+
+812478
+Roberto Firmino
+1300000
+Liverpool
+19653
+7000000
+
+528979
+Marcus Rashford
+1500000
+Manchester United
+89743
+11000000
+
+385728
+N'Golo Kante
+1400000
+Chelsea
+36129
+9000000
+
+679857
+Raheem Sterling
+1500000
+Manchester City
+54216
+10000000
+
+752186
+Ederson Moraes
+1300000
+Manchester City
+28741
+7000000
+
+419855
+Sadio Mane
+1400000
+Liverpool
+94015
+8000000
+
+196534
+Sergio Aguero
+1200000
+Paris Saint-Germain
+62389
+5000000
+
+897433
+Riyad Mahrez
+1300000
+Manchester City
+78592
+7000000
+
+361292
+Thiago Alcantara
+1300000
+Liverpool
+21984
+7000000
+
+542165
+Harry Maguire
+1300000
+Manchester United
+53764
+7000000
+
+287416
+Keylor Navas
+1200000
+Paris Saint-Germain
+97352
+5000000
+
+940157
+Jan Oblak
+1400000
+AC Milan
+45273
+8000000
+
+623894
+Trent Alexander-Arnold
+1300000
+Liverpool
+68923
+7000000
+
+785922
+Casemiro
+1300000
+Real Madrid
+37459
+7000000
+
+219843
+Paulo Dybala
+1500000
+Juventus
+52147
+10000000
+
+537185
+Marc-Andre ter Stegen
+1300000
+FC Barcelona
+93642
+7000000
+
+973527
+Alphonso Davies
+1200000
+Bayern Munich
+28974
+5000000
+
+452738
+Fabinho
+1300000
+Liverpool
+61297
+7000000
+
+689239
+Marquinhos
+1400000
+Paris Saint-Germain
+47283
+8000000
+
+374595
+Kasper Schmeichel
+1100000
+Manchester United
+81492
+4000000
