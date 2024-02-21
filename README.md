@@ -1,6 +1,13 @@
 # Sports League Database
 
-## Console-based application written for an Object-Oriented Programming course project in college.
+## Console-based application written for an Object-Oriented Programming course project in college
+
+### Technologies Used:
+* Developed in C++
+* Utilizes object-oriented design principles, including encapsulation, inheritance, and polymorphism
+* Implements basic data structures and algorithms for managing sports league, clubs and people
+
+![image](https://github.com/m-Jakub/Sports-League-Database/assets/133584402/22de7b5e-cfca-4f9f-8f44-340d8afaf94e)
 
 ### Overview
 
