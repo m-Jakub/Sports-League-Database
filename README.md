@@ -59,3 +59,8 @@ The program is able to read the data from a text file (no saving available). Use
 ![image](https://github.com/m-Jakub/Sports-League-Management-Simulation/assets/133584402/6ac6b59d-a43c-43c1-a3d0-c3d159fd4ecf)
 
 which is also included along with the source code.
+
+To compile the program the user should compile all the files. The correctness of program work is checked with the testing scenarios,
+which are written in the main.cpp file in a main function. The assert macro is used. If all tests are passed, the message is displayed.
+At the beggining the data is read from a file database.txt.
+
