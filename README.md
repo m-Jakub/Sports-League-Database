@@ -2,6 +2,9 @@
 
 ## Console-based application written for an Object-Oriented Programming course project in college
 
+![image](https://github.com/m-Jakub/Sports-League-Management-Simulation/assets/133584402/8d0cedab-37de-44f8-a34c-fe17f06b1786)
+
+
 ### Technologies Used:
 * Developed in C++
 * Utilizes object-oriented design principles, including encapsulation, inheritance, and polymorphism
