@@ -2,6 +2,7 @@
 
 ## Console-based application written for an Object-Oriented Programming course project in college
 
+Visual representation of the project:
 ![image](https://github.com/m-Jakub/Sports-League-Management-Simulation/assets/133584402/8d0cedab-37de-44f8-a34c-fe17f06b1786)
 
 
